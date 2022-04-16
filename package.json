@@ -1,0 +1,19 @@
+{
+  "name": "aleksey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aleksey",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekseyrostowskiy/alekseyrostowskiy.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alekseyrostowskiy/alekseyrostowskiy.github.io/issues"
+  },
+  "homepage": "https://github.com/alekseyrostowskiy/alekseyrostowskiy.github.io#readme",
+  "description": ""
+}
